@@ -1,0 +1,32 @@
+_repo: Extracts-from-the-Diary-of-William-C-Lobenstine-December-31-1851-1858_53043
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lobenstine, William C. (William Christian)
+    alias: Lobenstine, William Christian
+    birthdate: 1831
+    deathdate: 1918
+    gutenberg_agent_id: '47192'
+    url: http://www.gutenberg.org/2009/agents/47192
+  editor:
+    agent_name: Lobenstine, Belle W. (Belle Willson)
+    alias: Lobenstine, Belle Willson
+    birthdate: 1883
+    gutenberg_agent_id: '47193'
+    url: http://www.gutenberg.org/2009/agents/47193
+description: ''
+gutenberg_issued: '2016-09-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53043'
+  lccn: '20021415'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F590.3'
+- !lcsh 'Overland journeys to the Pacific'
+- GITenberg
+title: Extracts from the Diary of William C. Lobenstine, December 31, 1851-1858
+url: http://www.gutenberg.org/ebooks/53043
